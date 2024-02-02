@@ -4,13 +4,6 @@
 
 This is a simple Rest API built with Node.js. It provides endpoints for managing products and variants, as well as a search functionality.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Interacting with the API](#interacting-with-the-api)
-- [Architectural Decisions](#architectural-decisions)
-- [Assumptions](#assumptions)
-- [API Documentation](#api-documentation)
 
 ## Getting Started
 
@@ -53,6 +46,15 @@ This is a simple Rest API built with Node.js. It provides endpoints for managing
 
 ## API Documentation:
 - For detailed API documentation, refer to the [API documentation](https://documenter.getpostman.com/view/24375730/2s9Yyv9zXL) file.
+
+## For Testing:
+ -  Tests for the model **run command :**
+      - **npm run** test-model
+ -   Tests for the search functionality **run command :**
+     - **npm run** test-search
+ -   Tests for API :
+       - **npm run** test-getAllProduct
+       - **npm run** test-createProduct
 
 
 
