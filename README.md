@@ -21,7 +21,7 @@ This is a simple Rest API built with Node.js. It provides endpoints for managing
 
 ### Installation
 
-1. **Clone the repository :** git clone https://github.com/your-username/Backend-Assignment.git
+1. **Clone the repository :** git clone https://github.com/arpit-srivastava33/Backend-Assignment.git
 2. **Create a .env file in the root directory with the following content :** MONGO_URI= [Your MongoDB connection string](readme.com)
 3.  **Start Server :** npm run start
 
